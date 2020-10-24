@@ -165,4 +165,3 @@ def PatternMatching(Pattern, Genome):
 
 print(PatternMatching('ATAT', 'GATATATGCATATACTT'))
 
-#clump finding
